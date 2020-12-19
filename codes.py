@@ -1,5 +1,5 @@
 from selenium import webdriver
-import loginInfo #CREATE LOGININFO PYTHON FOLDER AND ENTER YOUR LOGIN AND PASSWORD
+import loginInfo #CREATE LOGININFO PYTHON FOLDER AND ENTER YOUR USERNAME AND PASSWORD
 import time
 
 browser = webdriver.Firefox()
